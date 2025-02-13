@@ -1,0 +1,152 @@
+2025-01-29 15:32:05,297 - Server started and listening on localhost:12345
+2025-01-29 15:32:15,215 - Connection from ('127.0.0.1', 56550)
+2025-01-29 15:32:21,925 - Received request: simple|pol
+2025-01-29 15:32:21,925 - Sent response: Is palindrome: False
+2025-01-29 15:32:29,214 - Received request: simple|pop
+2025-01-29 15:32:29,214 - Sent response: Is palindrome: True
+2025-01-29 15:32:55,353 - Received request: simple|pop
+2025-01-29 15:32:55,353 - Sent response: Is palindrome: True
+2025-01-29 15:33:58,579 - Received request: simple|A man a plan a canal panama
+2025-01-29 15:33:58,587 - Sent response: Is palindrome: True
+2025-01-29 15:34:25,842 - Closed connection with ('127.0.0.1', 56550)
+2025-01-29 15:34:36,380 - Connection from ('127.0.0.1', 56555)
+2025-01-29 15:34:53,377 - Received request: simple|a man, a plan, a canal, panama
+2025-01-29 15:34:53,377 - Sent response: Is palindrome: True
+2025-01-29 15:35:00,226 - Closed connection with ('127.0.0.1', 56555)
+2025-01-29 15:40:22,650 - Connection from ('127.0.0.1', 56593)
+2025-02-09 02:18:13,661 - Server started and listening on localhost:12345
+2025-02-09 02:19:58,774 - Server started and listening on localhost:12345
+2025-02-09 02:20:03,380 - Server started and listening on localhost:12345
+2025-02-09 02:23:11,383 - Connection from ('127.0.0.1', 52122)
+2025-02-09 02:23:17,682 - Received request: complex|ivvic
+2025-02-09 02:23:17,682 - Sent response: Can form a palindrome: True
+Complexity Score: 2
+2025-02-09 02:23:30,504 - Received request: complex|civvic
+2025-02-09 02:23:30,504 - Sent response: Can form a palindrome: True
+Complexity Score: 0
+2025-02-09 02:23:52,791 - Received request: complex|maa
+2025-02-09 02:23:52,791 - Sent response: Can form a palindrome: True
+Complexity Score: 1
+2025-02-09 02:23:59,945 - Received request: simple|ana
+2025-02-09 02:23:59,945 - Sent response: Is palindrome: True
+2025-02-09 02:24:04,948 - Closed connection with ('127.0.0.1', 52122)
+2025-02-09 02:24:11,926 - Connection from ('127.0.0.1', 52126)
+2025-02-09 02:24:14,210 - Received request: simple|ama
+2025-02-09 02:24:14,210 - Sent response: Is palindrome: True
+2025-02-09 02:24:19,227 - Closed connection with ('127.0.0.1', 52126)
+2025-02-09 02:29:05,350 - Connection from ('127.0.0.1', 52142)
+2025-02-09 02:29:09,582 - Received request: simple|maa
+2025-02-09 02:29:09,582 - Sent response: Is palindrome: False
+2025-02-09 02:29:09,582 - Error with ('127.0.0.1', 52142): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-02-09 02:29:09,582 - Closed connection with ('127.0.0.1', 52142)
+2025-02-09 02:29:21,233 - Server started and listening on localhost:12345
+2025-02-09 02:29:24,550 - Connection from ('127.0.0.1', 52146)
+2025-02-09 02:29:26,858 - Received request: simple|ama
+2025-02-09 02:29:26,858 - Sent response: Is palindrome: True
+2025-02-09 02:29:26,858 - Error with ('127.0.0.1', 52146): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-02-09 02:29:26,859 - Closed connection with ('127.0.0.1', 52146)
+2025-02-09 02:29:40,920 - Connection from ('127.0.0.1', 52150)
+2025-02-09 02:29:42,793 - Received request: simple|ama
+2025-02-09 02:29:42,793 - Sent response: Is palindrome: True
+2025-02-09 02:29:47,394 - Received request: simple|maa
+2025-02-09 02:29:47,394 - Sent response: Is palindrome: False
+2025-02-09 02:29:50,304 - Received request: exit
+2025-02-09 02:29:50,305 - Error with ('127.0.0.1', 52150): not enough values to unpack (expected 2, got 1)
+2025-02-09 02:29:50,305 - Closed connection with ('127.0.0.1', 52150)
+2025-02-09 02:32:18,129 - Connection from ('127.0.0.1', 52185)
+2025-02-09 02:32:18,129 - Received request: complex|ran
+2025-02-09 02:32:18,129 - Sent response: Can form a palindrome: False
+Complexity Score: -1
+2025-02-09 02:32:18,130 - Closed connection with ('127.0.0.1', 52185)
+2025-02-09 02:32:27,596 - Connection from ('127.0.0.1', 52186)
+2025-02-09 02:32:27,607 - Received request: simple|fan
+2025-02-09 02:32:27,607 - Sent response: Is palindrome: False
+2025-02-09 02:32:27,607 - Closed connection with ('127.0.0.1', 52186)
+2025-02-09 02:32:29,435 - Connection from ('127.0.0.1', 52187)
+2025-02-09 02:32:29,451 - Received request: simple|fan
+2025-02-09 02:32:29,451 - Sent response: Is palindrome: False
+2025-02-09 02:32:29,452 - Closed connection with ('127.0.0.1', 52187)
+2025-02-09 02:32:30,865 - Connection from ('127.0.0.1', 52188)
+2025-02-09 02:32:30,865 - Received request: simple|fan
+2025-02-09 02:32:30,865 - Sent response: Is palindrome: False
+2025-02-09 02:32:30,866 - Closed connection with ('127.0.0.1', 52188)
+2025-02-09 02:32:32,936 - Connection from ('127.0.0.1', 52189)
+2025-02-09 02:32:32,946 - Received request: complex|fan
+2025-02-09 02:32:32,946 - Sent response: Can form a palindrome: False
+Complexity Score: -1
+2025-02-09 02:32:32,946 - Closed connection with ('127.0.0.1', 52189)
+2025-02-09 02:32:36,335 - Connection from ('127.0.0.1', 52190)
+2025-02-09 02:32:36,352 - Received request: simple|fan
+2025-02-09 02:32:36,352 - Sent response: Is palindrome: False
+2025-02-09 02:32:36,352 - Closed connection with ('127.0.0.1', 52190)
+2025-02-09 02:32:36,581 - Connection from ('127.0.0.1', 52191)
+2025-02-09 02:32:36,601 - Received request: simple|fan
+2025-02-09 02:32:36,601 - Sent response: Is palindrome: False
+2025-02-09 02:32:36,602 - Closed connection with ('127.0.0.1', 52191)
+2025-02-09 02:32:36,778 - Connection from ('127.0.0.1', 52192)
+2025-02-09 02:32:36,802 - Received request: simple|fan
+2025-02-09 02:32:36,802 - Sent response: Is palindrome: False
+2025-02-09 02:32:36,803 - Closed connection with ('127.0.0.1', 52192)
+2025-02-09 02:32:36,963 - Connection from ('127.0.0.1', 52193)
+2025-02-09 02:32:36,963 - Received request: simple|fan
+2025-02-09 02:32:36,963 - Sent response: Is palindrome: False
+2025-02-09 02:32:36,963 - Closed connection with ('127.0.0.1', 52193)
+2025-02-09 02:32:44,956 - Connection from ('127.0.0.1', 52194)
+2025-02-09 02:32:44,974 - Received request: simple|ivvic
+2025-02-09 02:32:44,974 - Sent response: Is palindrome: False
+2025-02-09 02:32:44,974 - Closed connection with ('127.0.0.1', 52194)
+2025-02-09 02:32:47,177 - Connection from ('127.0.0.1', 52195)
+2025-02-09 02:32:47,200 - Received request: complex|ivvic
+2025-02-09 02:32:47,200 - Sent response: Can form a palindrome: True
+Complexity Score: 2
+2025-02-09 02:32:47,200 - Closed connection with ('127.0.0.1', 52195)
+2025-02-09 02:32:49,708 - Connection from ('127.0.0.1', 52196)
+2025-02-09 02:32:49,708 - Received request: complex|ivvic
+2025-02-09 02:32:49,708 - Sent response: Can form a palindrome: True
+Complexity Score: 2
+2025-02-09 02:32:49,709 - Closed connection with ('127.0.0.1', 52196)
+2025-02-09 02:32:49,906 - Connection from ('127.0.0.1', 52197)
+2025-02-09 02:32:49,930 - Received request: complex|ivvic
+2025-02-09 02:32:49,930 - Sent response: Can form a palindrome: True
+Complexity Score: 2
+2025-02-09 02:32:49,930 - Closed connection with ('127.0.0.1', 52197)
+2025-02-09 02:37:36,234 - Server started and listening on localhost:12345
+2025-02-09 02:37:50,326 - Connection from ('127.0.0.1', 52386)
+2025-02-09 02:37:50,326 - Received request: simple|ivvic
+2025-02-09 02:37:50,326 - Sent response: Is palindrome: False
+2025-02-09 02:37:50,326 - Closed connection with ('127.0.0.1', 52386)
+2025-02-09 02:37:52,665 - Connection from ('127.0.0.1', 52387)
+2025-02-09 02:37:52,686 - Received request: complex|ivvic
+2025-02-09 02:37:52,686 - Sent response: Can form a palindrome: True
+Complexity Score: 2
+2025-02-09 02:37:52,687 - Closed connection with ('127.0.0.1', 52387)
+2025-02-09 02:43:32,627 - Connection from ('127.0.0.1', 53906)
+2025-02-09 02:43:32,627 - Received request: simple|lolo
+2025-02-09 02:43:32,627 - Sent response: Is palindrome: False
+2025-02-09 02:43:32,627 - Closed connection with ('127.0.0.1', 53906)
+2025-02-09 02:43:33,835 - Connection from ('127.0.0.1', 53907)
+2025-02-09 02:43:33,851 - Received request: complex|lolo
+2025-02-09 02:43:33,851 - Sent response: Can form a palindrome: True
+Complexity Score: 1
+2025-02-09 02:43:33,851 - Closed connection with ('127.0.0.1', 53907)
+2025-02-09 02:43:37,890 - Connection from ('127.0.0.1', 53909)
+2025-02-09 02:43:37,902 - Received request: complex|lolo
+2025-02-09 02:43:37,902 - Sent response: Can form a palindrome: True
+Complexity Score: 1
+2025-02-09 02:43:37,902 - Closed connection with ('127.0.0.1', 53909)
+2025-02-10 00:19:44,892 - Server started and listening on localhost:12345
+2025-02-11 20:11:13,645 - Server started and listening on localhost:12345
+2025-02-11 20:11:48,691 - Server started and listening on localhost:12345
+2025-02-11 20:12:04,947 - Connection from ('127.0.0.1', 60419)
+2025-02-11 20:12:04,947 - Received request: simple|lol
+2025-02-11 20:12:04,947 - Sent response: Is palindrome: True
+2025-02-11 20:12:04,947 - Closed connection with ('127.0.0.1', 60419)
+2025-02-11 20:12:38,458 - Connection from ('127.0.0.1', 60424)
+2025-02-11 20:12:38,473 - Received request: simple|fuck you
+2025-02-11 20:12:38,473 - Sent response: Is palindrome: False
+2025-02-11 20:12:38,473 - Closed connection with ('127.0.0.1', 60424)
+2025-02-11 20:12:54,993 - Connection from ('127.0.0.1', 60426)
+2025-02-11 20:12:55,009 - Received request: complex|ivvic
+2025-02-11 20:12:55,009 - Sent response: Can form a palindrome: True
+Complexity Score: 2
+2025-02-11 20:12:55,009 - Closed connection with ('127.0.0.1', 60426)
