@@ -4,9 +4,9 @@ This project implements an advanced Palindrome Checker that not only determines 
 **🛠 Features:**
 ✅ Checks if a word is a palindrome
 ✅ Determines if the word can be converted into a palindrome by swapping
-✅ Computes the minimum swaps needed for transformation
+✅ Computes **the minimum swaps** needed for transformation
 ✅ Optimized for efficiency
-✅ Uses Socket Programming to facilitate client-server communication
+✅ Uses **Socket Programming** to facilitate client-server communication
 
 📌 **Tech Stack:** **Python**, **Socket Programming**
 
